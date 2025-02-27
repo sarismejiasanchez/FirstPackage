@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: FirstPackage
+Version: 0.1.0
+Summary: Un paquete pip simple de saludo
+Home-page: https://github.com/sarismejiasanchez/FirstPackage
+Author: Sara María Mejía Sánchez
+Author-email: sarismejiasanchez@platzi.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
